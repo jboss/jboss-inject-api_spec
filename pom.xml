@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.jboss.spec.javax.inject</groupId>
+  <artifactId>jboss-inject-api_1.0_spec</artifactId>
+  <version>1.0.0.Alpha1-SNAPSHOT</version>
+
+  <distributionManagement>
+    <relocation>
+       <groupId>javax.inject</groupId>
+       <artifactId>javax.inject</artifactId>
+       <version>1</version>
+       <message>Relocating to javax.inject:javax.inject:1</message>
+    </relocation>
+  </distributionManagement>
+
+</project>
