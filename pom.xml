@@ -5,6 +5,7 @@
   <groupId>org.jboss.spec.javax.inject</groupId>
   <artifactId>jboss-inject-api_1.0_spec</artifactId>
   <version>1.0.0.Alpha1-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <distributionManagement>
     <relocation>
