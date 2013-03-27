@@ -7,6 +7,12 @@
   <version>1.0.0.Alpha1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <scm>
+    <connection>scm:git:git@github.com:jboss/jboss-inject-api_spec.git</connection>
+    <developerConnection>scm:git:git@github.com:jboss/jboss-inject-api_spec.git</developerConnection>
+    <url>https://github.com/jboss/jboss-inject-api_spec</url>
+  </scm>
+
   <distributionManagement>
     <relocation>
        <groupId>javax.inject</groupId>
